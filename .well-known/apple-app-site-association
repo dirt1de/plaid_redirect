@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["12233130232.com.xz.plaidsample"],
+        "appIDs": ["12233130232.com.xz.smartspend2"],
         "components": [
           {
             "/": "/plaid/*",
